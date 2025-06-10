@@ -18,7 +18,29 @@ This is a classic **Rock Paper Scissors game** built using **Python's `tkinter` 
 * **Tkinter:** For creating the graphical user interface.
 * **Pygame:** For handling and playing sound effects.
 * **Pillow (PIL Fork):** For loading and resizing image assets.
+▶️ How to Play
 
+1.  **Clone the repository** to your local machine:
+
+    ```bash
+    git clone [https://github.com/YourGitHubUsername/rock-paper-scissors-game.git](https://github.com/YourGitHubUsername/rock-paper-scissors-game.git)
+    cd rock-paper-scissors-game
+    ```
+    *(Remember to replace `YourGitHubUsername` and `rock-paper-scissors-game` with your actual GitHub username and repository name.)*
+
+2.  **Install the necessary libraries** as mentioned in the "Requirements" section above.
+
+3.  **Run the game** from your terminal:
+
+    ```bash
+    python rock_paper_scissors.py
+    ```
+    *(Make sure the script name `rock_paper_scissors.py` matches your actual Python file's name.)*
+
+4.  **Follow the on-screen prompts:**
+    * Enter your name when prompted.
+    * Set the target score for the match.
+    * Click on the Rock, Paper, or Scissors image button to make your move for each round!
 ## 📦 Requirements
 
 To run this game, you'll need to install `pygame` and `Pillow`. You can easily install them using pip:
