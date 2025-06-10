@@ -1,5 +1,5 @@
-# codsoft_rock_paper_scissors
 ```
+# Rock Paper Scissors Game
 
 A simple Rock Paper Scissors game built with Python and Tkinter. The game includes sound effects and image buttons, making it more engaging for players.
 
