@@ -1,28 +1,27 @@
-```
-# Rock Paper Scissors Game
-## Overview
-A simple Rock Paper Scissors game built with Python and Tkinter. The game includes sound effects and image buttons, making it more engaging for players.
+# 🪨📄✂️ Rock Paper Scissors Game
 
-### Features
-- User-friendly interface with image buttons for Rock, Paper, and Scissors
-- Sound effects for win and lose outcomes
-- Score tracking and display
-- Option to set a target score to win the game
+This is a classic **Rock Paper Scissors game** built using **Python's `tkinter` library** for the graphical user interface (GUI) and **`pygame` for sound effects**. This project was developed as my **4th Internship Project**, focusing on GUI development and interactive gameplay.
 
-### Requirements
-- Python 3.x
-- Tkinter
-- Pygame
-- PIL (Pillow)
+## ✨ Features
 
-### How to Run
-1. Clone the repository
-2. Navigate to the project directory
-3. Run the game using `python rock_paper_scissors.py`
+* **Interactive GUI:** A visually appealing and user-friendly interface built with `tkinter`.
+* **Player Customization:** You can enter your name at the start of the game for a personalized experience.
+* **Target Score:** Set a specific score to win the match, adding a competitive element to each game.
+* **Dynamic Feedback:** Get real-time updates on your choice, the computer's choice, round results (win/lose/tie), and current scores.
+* **Engaging Sound Effects:** Custom sounds play when you win or lose a round, making the game more exciting.
+* **Image Assets:** Intuitive and attractive images for Rock, Paper, and Scissors buttons.
+* **Automatic Game End:** The game gracefully concludes and declares a winner once either you or the computer reaches the target score.
 
-### Gameplay
-- Enter your name and target score to start the game
-- Click on the Rock, Paper, or Scissors button to make a choice
-- The computer's choice will be displayed, and the winner will be determined
-- The game will end when either you or the computer reaches the target score
-```
+## 🛠️ Built With
+
+* **Python 3.x**
+* **Tkinter:** For creating the graphical user interface.
+* **Pygame:** For handling and playing sound effects.
+* **Pillow (PIL Fork):** For loading and resizing image assets.
+
+## 📦 Requirements
+
+To run this game, you'll need to install `pygame` and `Pillow`. You can easily install them using pip:
+
+```bash
+pip install pygame Pillow
