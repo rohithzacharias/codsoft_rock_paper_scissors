@@ -18,6 +18,7 @@ This is a classic **Rock Paper Scissors game** built using **Python's `tkinter` 
 * **Tkinter:** For creating the graphical user interface.
 * **Pygame:** For handling and playing sound effects.
 * **Pillow (PIL Fork):** For loading and resizing image assets.
+
 ▶️ How to Play
 
 1.  **Clone the repository** to your local machine:
